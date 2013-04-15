@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Freezing::Nemesis::VERSION
   spec.authors       = ["Kirk Werklund"]
   spec.email         = ["kirk.werklund@gettyimages.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{"Description of gem"}
+  spec.summary       = %q{"Summary of gem"}
   spec.homepage      = ""
   spec.license       = "MIT"
 
